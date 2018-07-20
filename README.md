@@ -5,3 +5,27 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Notas
 Pueden hacer lo que quieran...
+
+
+# h1
+## h2
+### h3
+#### h4
+#### h5
+
+Un gran poder requiere una grn *responsabilidad*
+
+Un gran poder requiere una grn _responsabilidad_
+
+Un **gran poder** requiere una grn *responsabilidad*
+> Ben Parker
+
+1. item
+2. item
+3. item
+  * subitem
+  * subitem
+  * subitem
+
+Para una foto...
+![batman] y entre parentesis pones el link a la foto
